@@ -5,11 +5,11 @@ Este proyecto es una práctica de desarrollo web que implementa un formulario de
 ## Características
 
 - Formulario responsivo con Bootstrap
-- Validaciones en tiempo real
-- Campos: Nombre, Correo y Contraseña
-- Validación de formato de correo electrónico
+- Validaciones en tiempo real.
+- Campos: Nombre, Correo y Contraseña.
+- Validación de formato de correo electrónico.
 - Validación de contraseña (mínimo 8 caracteres)
-- Mensajes de error dinámicos
+- Mensajes de error dinámicos.
 
 ## Requisitos previos
 
